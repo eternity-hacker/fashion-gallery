@@ -12,3 +12,19 @@
   */
   box-sizing: border-box;
 }
+
+#header {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+
+  height: 50px;
+}
+
+main {
+  height: 100vh;
+}
+
+#gallery {
+  display: flex;
+}
